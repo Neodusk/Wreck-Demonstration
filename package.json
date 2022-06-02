@@ -1,0 +1,16 @@
+{
+  "name": "demonstration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wreckExample.js",
+  "scripts": {
+    "start": "node wreckExample.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neodusk",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/wreck": "^17.1.0",
+    "https-proxy-agent": "^5.0.0"
+  }
+}
